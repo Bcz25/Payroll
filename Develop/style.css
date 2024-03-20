@@ -14,7 +14,7 @@ body,
 
 body {
   font-family: sans-serif;
-  background-color: #f9fbfd;
+  background-color: #6b7886;
 }
 
 .wrapper {
@@ -24,10 +24,17 @@ body {
 }
 
 header {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #03305f;
   text-align: center;
+  box-shadow: 5px 5px 5px #3e4b56;
+  border-radius: 5px;
   padding: 20px;
   padding-top: 0px;
-  color: hsl(206, 17%, 28%);
+  color: #c8d0d5;
 }
 
 h2 {
@@ -35,13 +42,14 @@ h2 {
 }
 
 .card {
-  background-color: hsl(0, 0%, 100%);
+  background-color: #6d859d;
   border-radius: 5px;
   border-width: 1px;
   box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px 0px;
-  color: hsl(206, 17%, 28%);
+  color: #232425;
+  border: 2px solid #03305f;
   font-size: 18px;
-  margin: 0 auto;
+  margin: 100px auto;
   max-width: 800px;
   padding: 30px 40px;
 }
@@ -93,10 +101,10 @@ tbody tr:nth-child(even) {
 
 .btn {
   border: none;
-  background-color: hsl(223, 74%, 48%);
-  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px 0px rgba(0, 0, 0, 0.2) 0px 1px 1px
-    0px;
-  color: hsl(0, 0%, 100%);
+  background-color: #03305f;
+  box-shadow: 5px 5px 5px #3e4b56;
+  border-radius: 5px;
+  color: #c8d0d5;
   display: inline-block;
   font-size: 22px;
   line-height: 22px;
