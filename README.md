@@ -7,4 +7,4 @@ This webpage provides a way to manage employee data and creates dynamic user exp
 All web browsers, simply insert https://bcz25.github.io/Payroll/ into broswer and start adding your employee data.
 
 ## Usage
-![Webpage screenshot](../Payroll/Screenshot 2024-03-20 at 6.08.31 PM.png./Payroll/Screenshot 2024-03-20 at 6.08.31 PM.png)
+![Screenshot 2024-03-20 at 6.08.31 PM.png](https://github.com/Bcz25/Payroll/blob/1b70b7d25a18cac0ec8333baa8ee4c17a7bd1e91/Screenshot%202024-03-20%20at%206.08.31%E2%80%AFPM.png)
